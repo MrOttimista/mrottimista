@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/mrottimista/static/js/runtime~main.be10cfae.js"
   },
   {
-    "revision": "a362a1fd1a0013685d1e",
-    "url": "/mrottimista/static/js/main.d3233640.chunk.js"
+    "revision": "49edae418b88d457a558",
+    "url": "/mrottimista/static/js/main.01b44334.chunk.js"
   },
   {
     "revision": "ba264cd90c4d36546d5a",
     "url": "/mrottimista/static/js/2.8f71a45e.chunk.js"
   },
   {
-    "revision": "a362a1fd1a0013685d1e",
+    "revision": "49edae418b88d457a558",
     "url": "/mrottimista/static/css/main.b54b1fd5.chunk.css"
   },
   {
-    "revision": "10b5916cc3bb03c6b94d82019d07c629",
+    "revision": "899a87c3484de541b1247f20292fb221",
     "url": "/mrottimista/index.html"
   }
 ];
