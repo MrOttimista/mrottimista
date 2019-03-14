@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/mrottimista/precache-manifest.e747b122a775bf93dcb970a484337b0f.js"
+  "/mrottimista/precache-manifest.4515f7bdb4bfc0bb572fc2a6acb095c3.js"
 );
 
 workbox.clientsClaim();
