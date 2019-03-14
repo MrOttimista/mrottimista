@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/mrottimista/static/media/redux.59c46753.png"
   },
   {
-    "revision": "52c01631bc17fef39912",
-    "url": "/mrottimista/static/css/main.c44185f5.chunk.css"
+    "revision": "fd2203327e967a7e18a8",
+    "url": "/mrottimista/static/css/main.338f9030.chunk.css"
   },
   {
     "revision": "2c580b4618afd7aa80b1",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/mrottimista/static/media/poPanda4.e2077fcc.png"
   },
   {
-    "revision": "52c01631bc17fef39912",
+    "revision": "fd2203327e967a7e18a8",
     "url": "/mrottimista/static/js/main.949a0c32.chunk.js"
   },
   {
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/mrottimista/static/css/2.13f5f346.chunk.css"
   },
   {
-    "revision": "3ffe7b75b8304febada607b36cae3417",
+    "revision": "83b2b65fff9dcdb9d0fa719eb7c3ffea",
     "url": "/mrottimista/index.html"
   }
 ];
