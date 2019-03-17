@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "59c467536111a981d904a050d335c2be",
-    "url": "/mrottimista/static/media/redux.59c46753.png"
+    "revision": "708826b58bffc600303be1c2f40519a1",
+    "url": "/mrottimista/static/media/d3.708826b5.png"
   },
   {
-    "revision": "fd2203327e967a7e18a8",
+    "revision": "b823be82eb3389c4a6a1",
     "url": "/mrottimista/static/css/main.338f9030.chunk.css"
   },
   {
@@ -16,24 +16,20 @@ self.__precacheManifest = [
     "url": "/mrottimista/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "da15806eefe5bbaf6a0f",
-    "url": "/mrottimista/static/js/2.c8207072.chunk.js"
-  },
-  {
-    "revision": "638be90904f9f9248d3c69cb2992c562",
-    "url": "/mrottimista/static/media/react.638be909.png"
+    "revision": "31e5d54395b5f515172f",
+    "url": "/mrottimista/static/js/2.331ff57a.chunk.js"
   },
   {
     "revision": "e2077fcc664f0ed157f14ea1318189a1",
     "url": "/mrottimista/static/media/poPanda4.e2077fcc.png"
   },
   {
-    "revision": "fd2203327e967a7e18a8",
-    "url": "/mrottimista/static/js/main.949a0c32.chunk.js"
+    "revision": "638be90904f9f9248d3c69cb2992c562",
+    "url": "/mrottimista/static/media/react.638be909.png"
   },
   {
-    "revision": "708826b58bffc600303be1c2f40519a1",
-    "url": "/mrottimista/static/media/d3.708826b5.png"
+    "revision": "b823be82eb3389c4a6a1",
+    "url": "/mrottimista/static/js/main.681032c4.chunk.js"
   },
   {
     "revision": "41cdef504e48e5c97d8da1a75c2bc1ff",
@@ -44,15 +40,19 @@ self.__precacheManifest = [
     "url": "/mrottimista/static/media/poooPanda.e8e389ab.png"
   },
   {
+    "revision": "59c467536111a981d904a050d335c2be",
+    "url": "/mrottimista/static/media/redux.59c46753.png"
+  },
+  {
     "revision": "af743b6c68bda433892f4230db0769de",
     "url": "/mrottimista/static/media/Space.af743b6c.png"
   },
   {
-    "revision": "da15806eefe5bbaf6a0f",
+    "revision": "31e5d54395b5f515172f",
     "url": "/mrottimista/static/css/2.13f5f346.chunk.css"
   },
   {
-    "revision": "83b2b65fff9dcdb9d0fa719eb7c3ffea",
+    "revision": "b17c4368b5cfa99b46207cfd58632977",
     "url": "/mrottimista/index.html"
   }
 ];
