@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/mrottimista/static/css/2.13f5f346.chunk.css"
   },
   {
-    "revision": "726ac7c0b8b747d6936490a1340501cb",
+    "revision": "3ff159162005aed64aee911f39713a29",
     "url": "/mrottimista/index.html"
   }
 ];
